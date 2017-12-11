@@ -1,3 +1,6 @@
+urllib3
+lxml
+requests
 pygithub==1.29
 bottle==0.11.6
 pybuilder==0.10.36
